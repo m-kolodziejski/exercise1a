@@ -19,3 +19,4 @@ Wyniki:
 | https://github.com/radekkania 	| Radek Kania 			| 2 | 3 | 3 | 4 | 4 | 1 |
 | https://github.com/p4cino			| Wojciech Puzio		| 0 | 1 | 0 | 4 | 4 |   |
 | https://github.com/riiff1			| Rafal Zasada			| 0 | 0 | 0 | 3 | 2 | 1 |
+| https://github.com/muszkie		| Mikołaj Muszyński		|   |   |   | 3 | 2 |   |
