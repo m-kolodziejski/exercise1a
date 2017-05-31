@@ -9,7 +9,7 @@ Wyniki:
 | https://github.com/patoor 		| Batosz Patora  		| 2 | 2  | 2 | 4 | 4 |   |
 | https://github.com/rafzz  		| Rafal Szmigiel 		| 0 | 3  | 2 | 4 | 4 |   |
 | https://github.com/michaljanyszek | Michal Janyszek 		| 2 | 2 | 1 | 4 | 4 |   |
-| https://github.com/marcinBlaszczyk | Marcin Blaszczyk 	| 2 | 0 | 1 | 4 | 4 |   |
+| https://github.com/marcinBlaszczyk | Marcin Blaszczyk 	| 2 | 3 | 1 | 4 | 4 |   |
 | https://github.com/barni211 		| Bartosz Fijalkowski 	| 2 | 3 | 3 | 4 | 4 | 1 |
 | https://github.com/DawidKruszyna 	| Dawid Kruszyna 		| 0 | 2 | 3 | 4 | 4 | 1 | 
 | https://github.com/mwyg 			| Marcin Wygledowski 	| 2 | 3 | 3 | 4 | 4 | 1 |
